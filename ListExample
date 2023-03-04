@@ -1,0 +1,44 @@
+Add an item to the list (Enter 'DONE' if you do not want to add more): Apples
+Item Added.
+Add an item to the list (Enter 'DONE' if you do not want to add more): Oranges
+Item Added.
+Add an item to the list (Enter 'DONE' if you do not want to add more): Melons
+Item Added.
+Add an item to the list (Enter 'DONE' if you do not want to add more): Done
+Current List:
+1: Apples
+2: Oranges
+3: Melons
+What do you want to do? Enter ADD, REMOVE, EDIT, or DONE: 
+Add
+Enter an item to add: 
+Bananas
+Current List:
+1: Apples
+2: Oranges
+3: Melons
+4: Bananas
+What do you want to do? Enter ADD, REMOVE, EDIT, or DONE: 
+Remove
+Enter the item number of the item to remove: 
+2
+Current List:
+1: Apples
+2: Melons
+3: Bananas
+What do you want to do? Enter ADD, REMOVE, EDIT, or DONE: 
+Edit
+Enter the item number of the item to edit: 
+2
+Enter the new value: 
+Watermelons
+Current List:
+1: Apples
+2: Watermelons
+3: Bananas
+What do you want to do? Enter ADD, REMOVE, EDIT, or DONE: 
+Done
+Final List:
+1. Apples
+2. Watermelons
+3. Bananas
